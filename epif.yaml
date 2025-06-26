@@ -6,7 +6,7 @@ submission_time: "2025-06-30T13:45:00Z"
 servers:
   - hostname: ims-cp-01
     bmc:
-      ip: 10.20.30.11
+      ip: 10.200.11.131
       username: admin
       password: encrypted:XYZ123==
       protocol: redfish
@@ -22,7 +22,7 @@ servers:
 
   - hostname: ims-worker-01
     bmc:
-      ip: 10.20.30.12
+      ip: 10.200.11.131
       username: admin
       password: encrypted:XYZ456==
       protocol: redfish
